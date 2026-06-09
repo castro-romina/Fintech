@@ -37,7 +37,7 @@ Permite registrar usuarios, gestionar cuentas y realizar depósitos y retiros de
 
 ```bash
 # Clonar el repositorio
-git clone 
+git clone https://github.com/castro-romina/Fintech.git 
 
 # Entrar al proyecto
 cd fintech
